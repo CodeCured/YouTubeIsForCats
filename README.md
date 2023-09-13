@@ -10,6 +10,8 @@ This list updates once a day, feel free to [add any missing channels](#add-a-cha
 | Channel ↕ | # Videos ↕ | Subscribers ↕ | Views ↕ |
 | --- | --- | --- | --- |
 | [Lil Bowie Cat](https://youtube.com/@lilbowiecat9121) | 8 | 108 | 9.2K |
+| [Hosico Cat](https://youtube.com/@hosico_cat) | 743 | 421K | 117M |
+| [smoothiethecat](https://youtube.com/@smoothiethecat) | 159 | 148K | 25M |
 
 ### Many Cats
 
@@ -35,7 +37,19 @@ This list updates once a day, feel free to [add any missing channels](#add-a-cha
 
 | Channel ↕ | # Videos ↕ | Subscribers ↕ | Views ↕ |
 | --- | --- | --- | --- |
+| [Simon's Cat](https://youtube.com/@simonscat) | 404 | 6.1M | 1.6B |
+| [Simon's Cat Extra](https://youtube.com/@simonscatextra) | 338 | 538K | 106M |
 
+### Cat Charities
+
+| Channel ↕ | # Videos ↕ | Subscribers ↕ | Views ↕ |
+| --- | --- | --- | --- |
+| [Cats Protection](https://youtube.com/@catsprotection) | 413 | 39K | 11M |
+
+
+## Who maintains this list?
+
+As you might have guessed from the URL, [Code Cured The Cat](https://codecured.org) is responsible for this list. Code Cured The Cat is a non-profit digital-first cat charity improving cat welfare and awareness by providing free services (like this!) and helpful information.
 
 ## Add a channel
 
