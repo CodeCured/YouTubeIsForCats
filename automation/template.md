@@ -6,6 +6,10 @@ This list updates once a day, feel free to [add any missing channels](#add-a-cha
 
 dynamic-channel-data
 
+## Who maintains this list?
+
+As you might have guessed from the URL, [Code Cured The Cat](https://codecured.org) is responsible for this list. Code Cured The Cat is a non-profit digital-first cat charity improving cat welfare and awareness by providing free services (like this!) and helpful information.
+
 ## Add a channel
 
 To add a channel, edit [`channels.txt`](https://github.com/CodeCured/YouTubeIsForCats/blob/main/automation/channels.txt) to include the channel ID and channel name:

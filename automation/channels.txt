@@ -1,5 +1,7 @@
 ### Single Cat 
 UC94VkhzvnYBuglxz2qHYi1Q;Lil Bowie Cat
+UCTCOnxnWsjYiFByBqTJbLOw;Hosico Cat
+UC5RTPeV2gbY1z8WEQ16p28g;Smoothie The Cat
 ### Many Cats
 UCETBLykCDpfP6L0awBd7Vwg;Airang
 UCwcsDWGip6vtiZyCnvDoClQ;Kittisaurus
@@ -14,3 +16,6 @@ UCPJXfmxMYAoH02CFudZxmgg;Paul Dinning
 UC-DqJ54Dx0a5SzANKdTKwPg;Red Squirrel Studios
 ### Cat Animations
 UCH6vXjt-BA7QHl0KnfL-7RQ;Simon's Cat
+UCE3pZOwArJXDOQjcQsiQT_w;Simon's Cat Extra
+### Cat Charities
+UCFKxGS94n6vyo5F38_O_KQA;Cats Protection
