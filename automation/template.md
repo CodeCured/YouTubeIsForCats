@@ -17,7 +17,3 @@ To add a channel, edit [`channels.txt`](https://github.com/CodeCured/YouTubeIsFo
 * Channel name is not used, except to make the file more readable.
 
 Alternatively, drop an email to [youtube@codecured.org](mailto:youtube@codecured.org) and it'll get added.
-
-<script src="/js/tablesort.js"></script>
-<script src="/js/new_window.js"></script>
-<link rel="stylesheet" href="/css/tweaks.css">
