@@ -1,5 +1,3 @@
-# YouTube is for cats 😸
-
 Did you know there are cat videos on YouTube? Yes, really!
 
 This list updates once a day, feel free to [add any missing channels](#add-a-channel). Tap a column's header to sort by that field.
