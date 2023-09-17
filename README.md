@@ -26,9 +26,9 @@ This list updates once a day, feel free to [add any missing channels](#add-a-cha
 | Channel ↕ | # Videos ↕ | Subscribers ↕ | Views ↕ |
 | --- | --- | --- | --- |
 | [Birder King](https://youtube.com/@birderking) | 154 | 109K | 75M |
-| [CAT TV](https://youtube.com/@cattvgames) | 70 | 12K | 4.4M |
-| [Patsy's Garden](https://youtube.com/@patsysgarden) | 36 | 4.6K | 2.2M |
-| [Paul Dinning](https://youtube.com/@pauldinningwildlifeincornwall) | 2.1K | 691K | 521M |
+| [CAT TV](https://youtube.com/@cattvgames) | 71 | 12K | 4.4M |
+| [Patsy's Garden](https://youtube.com/@patsysgarden) | 36 | 4.7K | 2.2M |
+| [Paul Dinning](https://youtube.com/@pauldinningwildlifeincornwall) | 2.1K | 692K | 521M |
 | [Red Squirrel Studios](https://youtube.com/@redsquirrelstudios) | 129 | 16K | 8.5M |
 
 ### Cat Animations
