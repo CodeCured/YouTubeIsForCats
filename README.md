@@ -19,24 +19,24 @@ This list updates once a day, feel free to [add any missing channels](#add-a-cha
 | [Kittisaurus](https://youtube.com/@kittisaurus) | 179 | 2.9M | 602M |
 | [Luvcat Home](https://youtube.com/@claireluvcat) | 4 | 193K | 1.8M |
 | [크림히어로즈](https://youtube.com/@creamheros) | 1.1K | 3.8M | 1.7B |
-| [랙돌열한스푼](https://youtube.com/@unboxingragdolls) | 582 | 507K | 122M |
+| [랙돌열한스푼](https://youtube.com/@unboxingragdolls) | 583 | 507K | 122M |
 
 ### Cat TV
 
 | Channel ↕ | # Videos ↕ | Subscribers ↕ | Views ↕ |
 | --- | --- | --- | --- |
 | [Birder King](https://youtube.com/@birderking) | 154 | 109K | 75M |
-| [CAT TV](https://youtube.com/@cattvgames) | 71 | 12K | 4.4M |
-| [Patsy's Garden](https://youtube.com/@patsysgarden) | 36 | 4.8K | 2.2M |
+| [CAT TV](https://youtube.com/@cattvgames) | 72 | 12K | 4.5M |
+| [Patsy's Garden](https://youtube.com/@patsysgarden) | 37 | 5.0K | 2.2M |
 | [Paul Dinning](https://youtube.com/@pauldinningwildlifeincornwall) | 2.1K | 692K | 521M |
-| [Red Squirrel Studios](https://youtube.com/@redsquirrelstudios) | 129 | 16K | 8.5M |
+| [Red Squirrel Studios](https://youtube.com/@redsquirrelstudios) | 129 | 16K | 8.6M |
 
 ### Cat Animations
 
 | Channel ↕ | # Videos ↕ | Subscribers ↕ | Views ↕ |
 | --- | --- | --- | --- |
-| [Simon's Cat](https://youtube.com/@simonscat) | 406 | 6.1M | 1.6B |
-| [Simon's Cat Extra](https://youtube.com/@simonscatextra) | 341 | 539K | 106M |
+| [Simon's Cat](https://youtube.com/@simonscat) | 407 | 6.1M | 1.6B |
+| [Simon's Cat Extra](https://youtube.com/@simonscatextra) | 341 | 540K | 107M |
 
 ### Cat Charities
 
