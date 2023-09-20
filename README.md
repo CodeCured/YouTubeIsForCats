@@ -8,7 +8,7 @@ This list updates once a day, feel free to [add any missing channels](#add-a-cha
 | Channel ↕ | # Videos ↕ | Subscribers ↕ | Views ↕ |
 | --- | --- | --- | --- |
 | [Lil Bowie Cat](https://youtube.com/@lilbowiecat9121) | 8 | 108 | 9.2K |
-| [Hosico Cat](https://youtube.com/@hosico_cat) | 745 | 421K | 117M |
+| [Hosico Cat](https://youtube.com/@hosico_cat) | 746 | 421K | 117M |
 | [smoothiethecat](https://youtube.com/@smoothiethecat) | 159 | 148K | 25M |
 
 ### Many Cats
@@ -19,15 +19,15 @@ This list updates once a day, feel free to [add any missing channels](#add-a-cha
 | [Kittisaurus](https://youtube.com/@kittisaurus) | 179 | 2.9M | 602M |
 | [Luvcat Home](https://youtube.com/@claireluvcat) | 4 | 193K | 1.8M |
 | [크림히어로즈](https://youtube.com/@creamheros) | 1.1K | 3.8M | 1.7B |
-| [랙돌열한스푼](https://youtube.com/@unboxingragdolls) | 583 | 507K | 122M |
+| [랙돌열한스푼](https://youtube.com/@unboxingragdolls) | 584 | 507K | 122M |
 
 ### Cat TV
 
 | Channel ↕ | # Videos ↕ | Subscribers ↕ | Views ↕ |
 | --- | --- | --- | --- |
 | [Birder King](https://youtube.com/@birderking) | 154 | 109K | 75M |
-| [CAT TV](https://youtube.com/@cattvgames) | 72 | 12K | 4.5M |
-| [Patsy's Garden](https://youtube.com/@patsysgarden) | 37 | 5.0K | 2.2M |
+| [CAT TV](https://youtube.com/@cattvgames) | 72 | 13K | 4.6M |
+| [Patsy's Garden](https://youtube.com/@patsysgarden) | 37 | 5.2K | 2.3M |
 | [Paul Dinning](https://youtube.com/@pauldinningwildlifeincornwall) | 2.1K | 692K | 521M |
 | [Red Squirrel Studios](https://youtube.com/@redsquirrelstudios) | 129 | 16K | 8.6M |
 
@@ -36,7 +36,7 @@ This list updates once a day, feel free to [add any missing channels](#add-a-cha
 | Channel ↕ | # Videos ↕ | Subscribers ↕ | Views ↕ |
 | --- | --- | --- | --- |
 | [Simon's Cat](https://youtube.com/@simonscat) | 407 | 6.1M | 1.6B |
-| [Simon's Cat Extra](https://youtube.com/@simonscatextra) | 341 | 540K | 107M |
+| [Simon's Cat Extra](https://youtube.com/@simonscatextra) | 342 | 540K | 107M |
 
 ### Cat Charities
 
