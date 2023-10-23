@@ -9,7 +9,7 @@ This list updates once a day, feel free to [add any missing channels](#add-a-cha
 | --- | --- | --- | --- |
 | [Anakin The Two Legged Cat](https://youtube.com/@anakintwolegs) | 75 | 14K | 5.1M |
 | [The Baron: Fat Cat](https://youtube.com/@thebaronfatcat6603) | 54 | 1.6K | 890K |
-| [Boy The Cat](https://youtube.com/@boythecat) | 328 | 2.4K | 294K |
+| [Boy The Cat](https://youtube.com/@boythecat) | 329 | 2.4K | 295K |
 | [Alvi cat channel](https://youtube.com/@alvicatchannel) | 310 | 70K | 15M |
 | [Frozen Kitten](https://youtube.com/@frozenkitten) | 92 | 66K | 7.2M |
 | [Why I smile](https://youtube.com/@whyismile) | 32 | 23 | 24K |
@@ -32,24 +32,24 @@ This list updates once a day, feel free to [add any missing channels](#add-a-cha
 
 | Channel ↕ | # Videos ↕ | Subscribers ↕ | Views ↕ |
 | --- | --- | --- | --- |
-| [Arirang은 고양이들내가 주인](https://youtube.com/@arirang3) | 600 | 634K | 298M |
+| [Arirang은 고양이들내가 주인](https://youtube.com/@arirang3) | 601 | 634K | 298M |
 | [Bad Cat](https://youtube.com/@badcattube) | 47 | 87K | 11M |
 | [CATMANTOO](https://youtube.com/@catmantoo) | 87 | 232K | 90M |
-| [CatVantage Story](https://youtube.com/@catvantagestory) | 39 | 4.2K | 617K |
+| [CatVantage Story](https://youtube.com/@catvantagestory) | 39 | 4.2K | 618K |
 | [Cole and Marmalade](https://youtube.com/@coleandmarmalade) | 419 | 1.5M | 436M |
 | [Dream & Diamond Cats](https://youtube.com/@dreamdiamondcats) | 72 | 434 | 111K |
 | [Funnycatsandnicefish](https://youtube.com/@funnycatsandnicefish) | 374 | 553K | 186M |
-| [GBC Cats](https://youtube.com/@gbccats) | 338 | 48K | 18M |
+| [GBC Cats](https://youtube.com/@gbccats) | 341 | 48K | 18M |
 | [Ginger Kitties Four](https://youtube.com/@gingerkittiesfour) | 519 | 423K | 159M |
 | [Hot Rocket Bengal Cats](https://youtube.com/@hotrocketbengalcats) | 25 | 9.8K | 3.5M |
-| [Jennifer Morales - Feline Films](https://youtube.com/@jennifermoralesfelinefilms) | 553 | 6.0K | 1.3M |
-| [The Kits Cats](https://youtube.com/@drnworbskitscats) | 866 | 101K | 47M |
+| [Jennifer Morales - Feline Films](https://youtube.com/@jennifermoralesfelinefilms) | 553 | 6.1K | 1.3M |
+| [The Kits Cats](https://youtube.com/@drnworbskitscats) | 867 | 101K | 47M |
 | [Kitten Academy](https://youtube.com/@kittenacademy) | 2.4K | 239K | 42M |
 | [Kittipandas](https://youtube.com/@kittipandas) | 48 | 714 | 30K |
 | [Kittisaurus](https://youtube.com/@kittisaurus) | 179 | 2.9M | 604M |
 | [Luvcat Home](https://youtube.com/@claireluvcat) | 4 | 193K | 1.8M |
 | [크림히어로즈](https://youtube.com/@creamheros) | 1.2K | 3.8M | 1.7B |
-| [크집사](https://youtube.com/@claire_luvcat) | 719 | 1.4M | 382M |
+| [크집사](https://youtube.com/@claire_luvcat) | 720 | 1.4M | 382M |
 | [Krzysztof Smejlis](https://youtube.com/@bobonikita) | 471 | 39K | 35M |
 | [Maggie and Brophy](https://youtube.com/@maggieandbrophy1327) | 146 | 630 | 50K |
 | [Miaou](https://youtube.com/@miaou-cat) | 5.6K | 144K | 116M |
@@ -58,7 +58,7 @@ This list updates once a day, feel free to [add any missing channels](#add-a-cha
 | [Ozzie and Zeke](https://youtube.com/@ozzieandzeke) | 94 | 540 | 104K |
 | [Pastel Cat World](https://youtube.com/@pastelcatworld) | 2.6K | 283K | 241M |
 | [pawsthekitty](https://youtube.com/@pawsthekitty) | 68 | 327 | 22K |
-| [Oriental Cats Rexton & Bella](https://youtube.com/@rextonorientalcat) | 171 | 3.0K | 785K |
+| [Oriental Cats Rexton & Bella](https://youtube.com/@rextonorientalcat) | 171 | 3.0K | 786K |
 | [Sho Ko](https://youtube.com/@shortyandkodi) | 466 | 348K | 166M |
 | [Snoopy and Doby](https://youtube.com/@snoopyanddoby) | 185 | 4.4K | 930K |
 | [Talking Kitty Cat](https://youtube.com/@stevecash83) | 167 | 2.9M | 987M |
@@ -98,7 +98,7 @@ This list updates once a day, feel free to [add any missing channels](#add-a-cha
 
 | Channel ↕ | # Videos ↕ | Subscribers ↕ | Views ↕ |
 | --- | --- | --- | --- |
-| [Cat Crazzzy](https://youtube.com/@cat_crazzzy) | 284 | 79K | 939K |
+| [Cat Crazzzy](https://youtube.com/@catcrazychannel) | 284 | 78K | 939K |
 | [Cat Lessons](https://youtube.com/@catlessons) | 75 | 80K | 26M |
 
 
