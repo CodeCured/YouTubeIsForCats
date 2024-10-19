@@ -13,7 +13,7 @@ This list updates once a day, feel free to [add any missing channels](#add-a-cha
 | [Alvi cat channel](https://youtube.com/@alvicatchannel) | 329 | 72K | 16M |
 | [Frozen Kitten](https://youtube.com/@frozenkitten) | 92 | 65K | 7.2M |
 | [Why I smile](https://youtube.com/@whyismile) | 32 | 23 | 25K |
-| [Hosico Cat](https://youtube.com/@hosico_cat) | 843 | 426K | 125M |
+| [Hosico Cat](https://youtube.com/@hosico_cat) | 844 | 426K | 125M |
 | [Jonasek The Cat](https://youtube.com/@jonasekthecat) | 58 | 29K | 8.1M |
 | [Lil Bowie Cat](https://youtube.com/@lilbowiecat9121) | 8 | 107 | 9.3K |
 | [Lil BUB](https://youtube.com/@lilbub) | 270 | 329K | 60M |
@@ -21,7 +21,7 @@ This list updates once a day, feel free to [add any missing channels](#add-a-cha
 | [IAmNalaCat](https://youtube.com/@iamnalacat) | 109 | 29K | 1.3M |
 | [N2 Cat Crew](https://youtube.com/@n2catcrew) | 212 | 159K | 59M |
 | [Puko's Porch](https://youtube.com/@pukosporch) | 90 | 1.8K | 360K |
-| [CatPusic](https://youtube.com/@catpusic) | 282 | 1.9M | 752M |
+| [CatPusic](https://youtube.com/@catpusic) | 283 | 1.9M | 752M |
 | [Cat Roxy Rocker Kitty](https://youtube.com/@rockerroxy) | 282 | 2.5K | 337K |
 | [Sissi The Red Cat](https://youtube.com/@veterinarylife) | 473 | 33K | 3.3M |
 | [The Six Cats Parade](https://youtube.com/@thesixcatsparade) | 421 | 756 | 618K |
@@ -48,7 +48,7 @@ This list updates once a day, feel free to [add any missing channels](#add-a-cha
 | [Kittipandas](https://youtube.com/@kittipandas) | 50 | 702 | 38K |
 | [Kittisaurus](https://youtube.com/@kittisaurus) | 238 | 2.8M | 621M |
 | [Luvcat Home](https://youtube.com/@claireluvcat) | 4 | 187K | 1.8M |
-| [스튜디오 그냥](https://youtube.com/@studiognyang) | 573 | 3.8M | 1.4B |
+| [스튜디오 그냥](https://youtube.com/@studiognyang) | 574 | 3.8M | 1.4B |
 | [크집사](https://youtube.com/@claire_luvcat) | 869 | 1.4M | 411M |
 | [Krzysztof Smejlis](https://youtube.com/@bobonikita) | 494 | 39K | 35M |
 | [Maggie and Brophy](https://youtube.com/@maggieandbrophy1327) | 173 | 2.0K | 326K |
@@ -58,7 +58,7 @@ This list updates once a day, feel free to [add any missing channels](#add-a-cha
 | [Ozzie and Zeke](https://youtube.com/@ozzieandzeke) | 94 | 568 | 114K |
 | [Pastel Cat World](https://youtube.com/@pastelcatworld) | 2.8K | 313K | 272M |
 | [pawsthekitty](https://youtube.com/@pawsthekitty) | 108 | 641 | 113K |
-| [Oriental Cats Rexton & Bella](https://youtube.com/@rextonorientalcat) | 176 | 3.5K | 1.1M |
+| [Oriental Cats Rexton & Bella](https://youtube.com/@rextonorientalcat) | 176 | 3.6K | 1.1M |
 | [Sho Ko](https://youtube.com/@shortyandkodi) | 476 | 362K | 173M |
 | [Snoopy and Doby](https://youtube.com/@snoopyanddoby) | 194 | 4.5K | 1.1M |
 | [Talking Kitty Cat](https://youtube.com/@stevecash83) | 166 | 2.9M | 1.0B |
@@ -72,8 +72,8 @@ This list updates once a day, feel free to [add any missing channels](#add-a-cha
 | --- | --- | --- | --- |
 | [Birder King](https://youtube.com/@birderking) | 211 | 172K | 122M |
 | [CAT TV](https://youtube.com/@cattvgames) | 295 | 54K | 23M |
-| [Patsy's Garden](https://youtube.com/@patsysgarden) | 205 | 22K | 8.2M |
-| [Paul Dinning](https://youtube.com/@pauldinningvideosforcats) | 2.2K | 754K | 586M |
+| [Patsy's Garden](https://youtube.com/@patsysgarden) | 206 | 22K | 8.2M |
+| [Paul Dinning](https://youtube.com/@pauldinningvideosforcats) | 2.2K | 754K | 587M |
 | [Red Squirrel Studios](https://youtube.com/@redsquirrelstudios) | 184 | 52K | 20M |
 | [Relax My Cat - Relaxing Music for Cats](https://youtube.com/@relaxmycat) | 2.4K | 931K | 250M |
 
@@ -81,8 +81,8 @@ This list updates once a day, feel free to [add any missing channels](#add-a-cha
 
 | Channel ↕ | # Videos ↕ | Subscribers ↕ | Views ↕ |
 | --- | --- | --- | --- |
-| [Simon's Cat](https://youtube.com/@simonscat) | 531 | 6.3M | 1.7B |
-| [Simon's Cat Extra](https://youtube.com/@simonscatextra) | 624 | 789K | 181M |
+| [Simon's Cat](https://youtube.com/@simonscat) | 532 | 6.3M | 1.7B |
+| [Simon's Cat Extra](https://youtube.com/@simonscatextra) | 625 | 789K | 181M |
 
 ### Cat Charities / Rescue
 
