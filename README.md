@@ -59,7 +59,7 @@ This list updates once a day, feel free to [add any missing channels](#add-a-cha
 | [Pastel Cat World](https://youtube.com/@pastelcatworld) | 2.9K | 313K | 281M |
 | [pawsthekitty](https://youtube.com/@pawsthekitty) | 112 | 669 | 132K |
 | [Oriental Cats Rexton dynamic-channel-data Bella](https://youtube.com/@rextonorientalcat) | 176 | 3.7K | 1.3M |
-| [Sho Ko](https://youtube.com/@shortyandkodi) | 504 | 365K | 177M |
+| [Sho Ko](https://youtube.com/@shortyandkodi) | 505 | 365K | 177M |
 | [Snoopy and Doby](https://youtube.com/@snoopyanddoby) | 194 | 4.5K | 1.1M |
 | [Talking Kitty Cat](https://youtube.com/@stevecash83) | 166 | 3.0M | 1.1B |
 | [Tom and Mimi](https://youtube.com/@tomandmimi) | 1.7K | 249K | 102M |
@@ -71,9 +71,9 @@ This list updates once a day, feel free to [add any missing channels](#add-a-cha
 | Channel ↕ | # Videos ↕ | Subscribers ↕ | Views ↕ |
 | --- | --- | --- | --- |
 | [Birder King](https://youtube.com/@birderking) | 263 | 267K | 189M |
-| [CAT TV](https://youtube.com/@cattvgames) | 529 | 99K | 43M |
+| [CAT TV](https://youtube.com/@cattvgames) | 531 | 99K | 43M |
 | [Patsy's Garden](https://youtube.com/@patsysgarden) | 118 | 35K | 14M |
-| [Paul Dinning](https://youtube.com/@pauldinningvideosforcats) | 1.8K | 818K | 656M |
+| [Paul Dinning](https://youtube.com/@pauldinningvideosforcats) | 1.8K | 818K | 657M |
 | [Red Squirrel Studios](https://youtube.com/@redsquirrelstudios) | 212 | 108K | 40M |
 | [Relax My Cat - Relaxing Music for Cats](https://youtube.com/@relaxmycat) | 2.7K | 1.1M | 334M |
 
@@ -82,14 +82,14 @@ This list updates once a day, feel free to [add any missing channels](#add-a-cha
 | Channel ↕ | # Videos ↕ | Subscribers ↕ | Views ↕ |
 | --- | --- | --- | --- |
 | [Simon's Cat](https://youtube.com/@simonscat) | 690 | 6.5M | 1.8B |
-| [Simon's Cat Extra](https://youtube.com/@simonscatextra) | 961 | 883K | 228M |
+| [Simon's Cat Extra](https://youtube.com/@simonscatextra) | 962 | 883K | 228M |
 
 ### Cat Charities / Rescue
 
 | Channel ↕ | # Videos ↕ | Subscribers ↕ | Views ↕ |
 | --- | --- | --- | --- |
 | [Blind Cat Rescue dynamic-channel-data Sanctuary, Inc](https://youtube.com/@blindcatrescuesanctuary) | 3.7K | 9.7K | 2.6M |
-| [CAT MAN CHRIS](https://youtube.com/@catmanchrispoole) | 157 | 938K | 275M |
+| [CAT MAN CHRIS](https://youtube.com/@catmanchrispoole) | 158 | 938K | 275M |
 | [Cats Protection](https://youtube.com/@catsprotection) | 433 | 45K | 13M |
 | [Robin Seplut](https://youtube.com/@robinseplut) | 5.0K | 1.6M | 573M |
 | [TinyKittens HQ](https://youtube.com/@tinykittens) | 1.4K | 258K | 199M |
