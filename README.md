@@ -72,7 +72,7 @@ This list updates once a day, feel free to [add any missing channels](#add-a-cha
 | --- | --- | --- | --- |
 | [Birder King](https://youtube.com/@birderking) | 264 | 269K | 190M |
 | [CAT TV](https://youtube.com/@cattvgames) | 536 | 100K | 43M |
-| [Patsy's Garden](https://youtube.com/@patsysgarden) | 122 | 36K | 14M |
+| [Patsy's Garden](https://youtube.com/@patsysgarden) | 123 | 36K | 14M |
 | [Paul Dinning](https://youtube.com/@pauldinningvideosforcats) | 1.8K | 819K | 658M |
 | [Red Squirrel Studios](https://youtube.com/@redsquirrelstudios) | 212 | 109K | 41M |
 | [Relax My Cat - Relaxing Music for Cats](https://youtube.com/@relaxmycat) | 2.8K | 1.1M | 335M |
@@ -82,14 +82,14 @@ This list updates once a day, feel free to [add any missing channels](#add-a-cha
 | Channel ↕ | # Videos ↕ | Subscribers ↕ | Views ↕ |
 | --- | --- | --- | --- |
 | [Simon's Cat](https://youtube.com/@simonscat) | 695 | 6.5M | 1.8B |
-| [Simon's Cat Extra](https://youtube.com/@simonscatextra) | 965 | 884K | 229M |
+| [Simon's Cat Extra](https://youtube.com/@simonscatextra) | 965 | 885K | 229M |
 
 ### Cat Charities / Rescue
 
 | Channel ↕ | # Videos ↕ | Subscribers ↕ | Views ↕ |
 | --- | --- | --- | --- |
 | [Blind Cat Rescue dynamic-channel-data Sanctuary, Inc](https://youtube.com/@blindcatrescuesanctuary) | 3.7K | 9.7K | 2.7M |
-| [CAT MAN CHRIS](https://youtube.com/@catmanchrispoole) | 158 | 938K | 275M |
+| [CAT MAN CHRIS](https://youtube.com/@catmanchrispoole) | 158 | 937K | 275M |
 | [Cats Protection](https://youtube.com/@catsprotection) | 432 | 45K | 13M |
 | [Robin Seplut](https://youtube.com/@robinseplut) | 5.0K | 1.6M | 573M |
 | [TinyKittens HQ](https://youtube.com/@tinykittens) | 1.4K | 258K | 199M |
