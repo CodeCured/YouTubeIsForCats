@@ -17,12 +17,12 @@ This list updates once a day, feel free to [add any missing channels](#add-a-cha
 | [Jonasek The Cat](https://youtube.com/@jonasekthecat) | 58 | 29K | 8.2M |
 | [Lil Bowie Cat](https://youtube.com/@lilbowiecat9121) | 8 | 102 | 9.3K |
 | [Lil BUB](https://youtube.com/@lilbub) | 272 | 325K | 60M |
-| [Mico Kitty](https://youtube.com/@micokitty) | 902 | 4.2K | 956K |
+| [Mico Kitty](https://youtube.com/@micokitty) | 902 | 4.2K | 957K |
 | [IAmNalaCat](https://youtube.com/@iamnalacat) | 109 | 29K | 1.3M |
 | [N2 Cat Crew](https://youtube.com/@n2catcrew) | 302 | 158K | 60M |
 | [Puko's Porch](https://youtube.com/@pukosporch) | 89 | 1.7K | 362K |
 | [CatPusic Team](https://youtube.com/@catpusicteam) | 329 | 2.0M | 840M |
-| [Cat Roxy Rocker Kitty](https://youtube.com/@rockerroxy) | 108 | 2.8K | 205K |
+| [Cat Roxy Rocker Kitty](https://youtube.com/@rockerroxy) | 108 | 2.8K | 206K |
 | [Sissi The Red Cat](https://youtube.com/@veterinarylife) | 471 | 33K | 3.3M |
 | [The Six Cats Parade](https://youtube.com/@thesixcatsparade) | 421 | 759 | 625K |
 | [smoothiethecat](https://youtube.com/@smoothiethecat) | 159 | 142K | 25M |
@@ -48,14 +48,14 @@ This list updates once a day, feel free to [add any missing channels](#add-a-cha
 | [Kittipandas](https://youtube.com/@kittipandas) | 46 | 692 | 18K |
 | [Kittisaurus](https://youtube.com/@kittisaurus) | 282 | 2.8M | 639M |
 | [Luvcat Home](https://youtube.com/@claireluvcat) | 4 | 181K | 1.8M |
-| [스튜디오 그냥](https://youtube.com/@studiognyang) | 683 | 3.7M | 1.5B |
+| [스튜디오 그냥](https://youtube.com/@studiognyang) | 684 | 3.7M | 1.5B |
 | [크집사](https://youtube.com/@claire_luvcat) | 1.3K | 1.4M | 446M |
 | [Krzysztof Smejlis](https://youtube.com/@bobonikita) | 507 | 39K | 35M |
 | [Maggie and Brophy](https://youtube.com/@maggieandbrophy1327) | 217 | 2.5K | 582K |
 | [Miaou](https://youtube.com/@miaou-cat) | 6.5K | 149K | 131M |
 | [My 3 Feral Cats](https://youtube.com/@my3feralcats) | 3.2K | 3.2K | 1.3M |
 | [My Kitti Cats](https://youtube.com/@mykitticats) | 226 | 6.3K | 254K |
-| [Ozzie and Zeke](https://youtube.com/@ozzieandzeke) | 538 | 1.3K | 409K |
+| [Ozzie and Zeke](https://youtube.com/@ozzieandzeke) | 539 | 1.3K | 410K |
 | [Pastel Cat World](https://youtube.com/@pastelcatworld) | 2.9K | 313K | 282M |
 | [pawsthekitty](https://youtube.com/@pawsthekitty) | 112 | 667 | 132K |
 | [Oriental Cats Rexton dynamic-channel-data Bella](https://youtube.com/@rextonorientalcat) | 176 | 3.7K | 1.3M |
@@ -71,8 +71,8 @@ This list updates once a day, feel free to [add any missing channels](#add-a-cha
 | Channel ↕ | # Videos ↕ | Subscribers ↕ | Views ↕ |
 | --- | --- | --- | --- |
 | [Birder King](https://youtube.com/@birderking) | 266 | 274K | 194M |
-| [CAT TV](https://youtube.com/@cattvgames) | 557 | 103K | 45M |
-| [Patsy's Garden](https://youtube.com/@patsysgarden) | 126 | 37K | 15M |
+| [CAT TV](https://youtube.com/@cattvgames) | 557 | 104K | 45M |
+| [Patsy's Garden](https://youtube.com/@patsysgarden) | 127 | 37K | 15M |
 | [Paul Dinning](https://youtube.com/@pauldinningvideosforcats) | 1.8K | 822K | 662M |
 | [Red Squirrel Studios](https://youtube.com/@redsquirrelstudios) | 213 | 114K | 43M |
 | [Relax My Cat - Relaxing Music for Cats](https://youtube.com/@relaxmycat) | 2.8K | 1.1M | 336M |
@@ -89,7 +89,7 @@ This list updates once a day, feel free to [add any missing channels](#add-a-cha
 | Channel ↕ | # Videos ↕ | Subscribers ↕ | Views ↕ |
 | --- | --- | --- | --- |
 | [Blind Cat Rescue dynamic-channel-data Sanctuary, Inc](https://youtube.com/@blindcatrescuesanctuary) | 3.8K | 9.9K | 2.7M |
-| [CAT MAN CHRIS](https://youtube.com/@catmanchrispoole) | 158 | 937K | 275M |
+| [CAT MAN CHRIS](https://youtube.com/@catmanchrispoole) | 158 | 938K | 275M |
 | [Cats Protection](https://youtube.com/@catsprotection) | 431 | 45K | 13M |
 | [Robin Seplut](https://youtube.com/@robinseplut) | 5.1K | 1.6M | 574M |
 | [TinyKittens HQ](https://youtube.com/@tinykittens) | 1.4K | 258K | 200M |
@@ -98,7 +98,7 @@ This list updates once a day, feel free to [add any missing channels](#add-a-cha
 
 | Channel ↕ | # Videos ↕ | Subscribers ↕ | Views ↕ |
 | --- | --- | --- | --- |
-| [CatCrazy](https://youtube.com/@catcrazychannel) | 471 | 225K | 2.1M |
+| [CatCrazy](https://youtube.com/@catcrazychannel) | 471 | 225K | 2.2M |
 | [Cat Lessons](https://youtube.com/@catlessons) | 76 | 81K | 27M |
 
 
