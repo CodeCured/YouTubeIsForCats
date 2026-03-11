@@ -42,7 +42,7 @@ This list updates once a day, feel free to [add any missing channels](#add-a-cha
 | [Rain Oasis](https://youtube.com/@stampandcoin) | 7 | 49K | 193 |
 | [Ginger Kitties Four](https://youtube.com/@gingerkittiesfour) | 527 | 412K | 160M |
 | [Hot Rocket Bengal Cats](https://youtube.com/@hotrocketbengalcats) | 27 | 12K | 3.7M |
-| [Jennifer Morales - Feline Films](https://youtube.com/@jennifermoralesfelinefilms) | 859 | 11K | 2.8M |
+| [Jennifer Morales - Feline Films](https://youtube.com/@jennifermoralesfelinefilms) | 860 | 11K | 2.8M |
 | [The Kits Cats](https://youtube.com/@drnworbskitscats) | 877 | 108K | 49M |
 | [Kitten Academy](https://youtube.com/@kittenacademy) | 3.0K | 236K | 34M |
 | [Kittipandas](https://youtube.com/@kittipandas) | 46 | 692 | 18K |
@@ -55,11 +55,11 @@ This list updates once a day, feel free to [add any missing channels](#add-a-cha
 | [Miaou](https://youtube.com/@miaou-cat) | 6.5K | 149K | 131M |
 | [My 3 Feral Cats](https://youtube.com/@my3feralcats) | 3.2K | 3.2K | 1.3M |
 | [My Kitti Cats](https://youtube.com/@mykitticats) | 226 | 6.3K | 254K |
-| [Ozzie and Zeke](https://youtube.com/@ozzieandzeke) | 539 | 1.3K | 410K |
+| [Ozzie and Zeke](https://youtube.com/@ozzieandzeke) | 540 | 1.3K | 410K |
 | [Pastel Cat World](https://youtube.com/@pastelcatworld) | 2.9K | 313K | 282M |
 | [pawsthekitty](https://youtube.com/@pawsthekitty) | 112 | 667 | 132K |
 | [Oriental Cats Rexton dynamic-channel-data Bella](https://youtube.com/@rextonorientalcat) | 176 | 3.7K | 1.3M |
-| [Sho Ko](https://youtube.com/@shortyandkodi) | 508 | 365K | 177M |
+| [Sho Ko](https://youtube.com/@shortyandkodi) | 509 | 365K | 177M |
 | [Snoopy and Doby](https://youtube.com/@snoopyanddoby) | 194 | 4.5K | 1.1M |
 | [Talking Kitty Cat](https://youtube.com/@stevecash83) | 166 | 3.0M | 1.1B |
 | [Tom and Mimi](https://youtube.com/@tomandmimi) | 1.7K | 249K | 102M |
@@ -82,7 +82,7 @@ This list updates once a day, feel free to [add any missing channels](#add-a-cha
 | Channel ↕ | # Videos ↕ | Subscribers ↕ | Views ↕ |
 | --- | --- | --- | --- |
 | [Simon's Cat](https://youtube.com/@simonscat) | 704 | 6.6M | 1.8B |
-| [Simon's Cat Extra](https://youtube.com/@simonscatextra) | 986 | 890K | 234M |
+| [Simon's Cat Extra](https://youtube.com/@simonscatextra) | 987 | 891K | 235M |
 
 ### Cat Charities / Rescue
 
