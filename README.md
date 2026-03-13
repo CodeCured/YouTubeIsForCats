@@ -35,7 +35,7 @@ This list updates once a day, feel free to [add any missing channels](#add-a-cha
 | [Arirang은 고양이들 내가 주인](https://youtube.com/@아리랑은고양이들) | 741 | 596K | 336M |
 | [Bad Cat](https://youtube.com/@badcattube) | 58 | 85K | 11M |
 | [CATMANTOO](https://youtube.com/@catmantoo) | 88 | 228K | 94M |
-| [CatVantage Story](https://youtube.com/@catvantagestory) | 54 | 5.3K | 856K |
+| [CatVantage Story](https://youtube.com/@catvantagestory) | 54 | 5.2K | 856K |
 | [Cole and Marmalade](https://youtube.com/@coleandmarmalade) | 487 | 1.4M | 447M |
 | [Dream dynamic-channel-data Diamond Cats](https://youtube.com/@dreamdiamondcats) | 72 | 416 | 121K |
 | [Funnycatsandnicefish](https://youtube.com/@funnycatsandnicefish) | 374 | 546K | 189M |
@@ -46,18 +46,18 @@ This list updates once a day, feel free to [add any missing channels](#add-a-cha
 | [The Kits Cats](https://youtube.com/@drnworbskitscats) | 877 | 108K | 49M |
 | [Kitten Academy](https://youtube.com/@kittenacademy) | 3.0K | 236K | 34M |
 | [Kittipandas](https://youtube.com/@kittipandas) | 46 | 692 | 18K |
-| [Kittisaurus](https://youtube.com/@kittisaurus) | 282 | 2.8M | 639M |
+| [Kittisaurus](https://youtube.com/@kittisaurus) | 282 | 2.8M | 640M |
 | [Luvcat Home](https://youtube.com/@claireluvcat) | 4 | 181K | 1.8M |
-| [스튜디오 그냥](https://youtube.com/@studiognyang) | 684 | 3.7M | 1.5B |
+| [스튜디오 그냥](https://youtube.com/@studiognyang) | 685 | 3.7M | 1.5B |
 | [크집사](https://youtube.com/@claire_luvcat) | 1.3K | 1.4M | 447M |
-| [Krzysztof Smejlis](https://youtube.com/@bobonikita) | 507 | 39K | 35M |
+| [Krzysztof Smejlis](https://youtube.com/@bobonikita) | 508 | 39K | 35M |
 | [Maggie and Brophy](https://youtube.com/@maggieandbrophy1327) | 217 | 2.5K | 582K |
 | [Miaou](https://youtube.com/@miaou-cat) | 6.5K | 149K | 131M |
 | [My 3 Feral Cats](https://youtube.com/@my3feralcats) | 3.2K | 3.2K | 1.3M |
 | [My Kitti Cats](https://youtube.com/@mykitticats) | 226 | 6.3K | 254K |
-| [Ozzie and Zeke](https://youtube.com/@ozzieandzeke) | 541 | 1.3K | 410K |
+| [Ozzie and Zeke](https://youtube.com/@ozzieandzeke) | 541 | 1.3K | 411K |
 | [Pastel Cat World](https://youtube.com/@pastelcatworld) | 2.9K | 313K | 282M |
-| [pawsthekitty](https://youtube.com/@pawsthekitty) | 112 | 667 | 132K |
+| [pawsthekitty](https://youtube.com/@pawsthekitty) | 112 | 668 | 132K |
 | [Oriental Cats Rexton dynamic-channel-data Bella](https://youtube.com/@rextonorientalcat) | 176 | 3.7K | 1.3M |
 | [Sho Ko](https://youtube.com/@shortyandkodi) | 509 | 365K | 177M |
 | [Snoopy and Doby](https://youtube.com/@snoopyanddoby) | 194 | 4.5K | 1.1M |
@@ -71,10 +71,10 @@ This list updates once a day, feel free to [add any missing channels](#add-a-cha
 | Channel ↕ | # Videos ↕ | Subscribers ↕ | Views ↕ |
 | --- | --- | --- | --- |
 | [Birder King](https://youtube.com/@birderking) | 266 | 274K | 194M |
-| [CAT TV](https://youtube.com/@cattvgames) | 558 | 104K | 45M |
+| [CAT TV](https://youtube.com/@cattvgames) | 559 | 104K | 45M |
 | [Patsy's Garden](https://youtube.com/@patsysgarden) | 127 | 37K | 15M |
 | [Paul Dinning](https://youtube.com/@pauldinningvideosforcats) | 1.8K | 822K | 662M |
-| [Red Squirrel Studios](https://youtube.com/@redsquirrelstudios) | 213 | 114K | 43M |
+| [Red Squirrel Studios](https://youtube.com/@redsquirrelstudios) | 213 | 114K | 44M |
 | [Relax My Cat - Relaxing Music for Cats](https://youtube.com/@relaxmycat) | 2.8K | 1.1M | 336M |
 
 ### Cat Animations
@@ -88,7 +88,7 @@ This list updates once a day, feel free to [add any missing channels](#add-a-cha
 
 | Channel ↕ | # Videos ↕ | Subscribers ↕ | Views ↕ |
 | --- | --- | --- | --- |
-| [Blind Cat Rescue dynamic-channel-data Sanctuary, Inc](https://youtube.com/@blindcatrescuesanctuary) | 3.8K | 9.9K | 2.7M |
+| [Blind Cat Rescue dynamic-channel-data Sanctuary, Inc](https://youtube.com/@blindcatrescuesanctuary) | 3.8K | 10K | 2.7M |
 | [CAT MAN CHRIS](https://youtube.com/@catmanchrispoole) | 158 | 938K | 275M |
 | [Cats Protection](https://youtube.com/@catsprotection) | 431 | 45K | 13M |
 | [Robin Seplut](https://youtube.com/@robinseplut) | 5.1K | 1.6M | 574M |
