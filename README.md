@@ -17,7 +17,7 @@ This list updates once a day, feel free to [add any missing channels](#add-a-cha
 | [Jonasek The Cat](https://youtube.com/@jonasekthecat) | 58 | 29K | 8.2M |
 | [Lil Bowie Cat](https://youtube.com/@lilbowiecat9121) | 8 | 101 | 9.3K |
 | [Lil BUB](https://youtube.com/@lilbub) | 272 | 325K | 60M |
-| [Mico Kitty](https://youtube.com/@micokitty) | 902 | 4.2K | 969K |
+| [Mico Kitty](https://youtube.com/@micokitty) | 902 | 4.3K | 969K |
 | [IAmNalaCat](https://youtube.com/@iamnalacat) | 109 | 29K | 1.3M |
 | [N2 Cat Crew](https://youtube.com/@n2catcrew) | 302 | 158K | 60M |
 | [Puko's Porch](https://youtube.com/@pukosporch) | 89 | 1.7K | 362K |
@@ -71,7 +71,7 @@ This list updates once a day, feel free to [add any missing channels](#add-a-cha
 | Channel ↕ | # Videos ↕ | Subscribers ↕ | Views ↕ |
 | --- | --- | --- | --- |
 | [Birder King](https://youtube.com/@birderking) | 270 | 281K | 201M |
-| [CAT TV](https://youtube.com/@cattvgames) | 594 | 110K | 48M |
+| [CAT TV](https://youtube.com/@cattvgames) | 595 | 110K | 48M |
 | [Patsy's Garden](https://youtube.com/@patsysgarden) | 126 | 38K | 16M |
 | [Paul Dinning](https://youtube.com/@pauldinningvideosforcats) | 1.8K | 827K | 670M |
 | [Red Squirrel Studios](https://youtube.com/@redsquirrelstudios) | 214 | 119K | 48M |
