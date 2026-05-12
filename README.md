@@ -46,12 +46,12 @@ This list updates once a day, feel free to [add any missing channels](#add-a-cha
 | [The Kits Cats](https://youtube.com/@drnworbskitscats) | 877 | 108K | 49M |
 | [Kitten Academy](https://youtube.com/@kittenacademy) | 3.0K | 236K | 35M |
 | [Kittipandas](https://youtube.com/@kittipandas) | 46 | 688 | 18K |
-| [Kittisaurus](https://youtube.com/@kittisaurus) | 285 | 2.8M | 642M |
+| [Kittisaurus](https://youtube.com/@kittisaurus) | 286 | 2.8M | 642M |
 | [Luvcat Home](https://youtube.com/@claireluvcat) | 4 | 181K | 1.8M |
 | [스튜디오 그냥](https://youtube.com/@studiognyang) | 701 | 3.7M | 1.5B |
 | [크집사](https://youtube.com/@claire_luvcat) | 1.4K | 1.4M | 452M |
 | [Krzysztof Smejlis](https://youtube.com/@bobonikita) | 508 | 39K | 36M |
-| [Maggie and Brophy](https://youtube.com/@maggieandbrophy1327) | 222 | 2.5K | 593K |
+| [Maggie and Brophy](https://youtube.com/@maggieandbrophy1327) | 223 | 2.5K | 593K |
 | [Miaou](https://youtube.com/@miaou-cat) | 6.5K | 149K | 131M |
 | [My 3 Feral Cats](https://youtube.com/@my3feralcats) | 3.2K | 3.2K | 1.3M |
 | [My Kitti Cats](https://youtube.com/@mykitticats) | 226 | 6.3K | 254K |
@@ -71,7 +71,7 @@ This list updates once a day, feel free to [add any missing channels](#add-a-cha
 | Channel ↕ | # Videos ↕ | Subscribers ↕ | Views ↕ |
 | --- | --- | --- | --- |
 | [Birder King](https://youtube.com/@birderking) | 270 | 282K | 202M |
-| [CAT TV](https://youtube.com/@cattvgames) | 598 | 110K | 48M |
+| [CAT TV](https://youtube.com/@cattvgames) | 598 | 111K | 48M |
 | [Patsy's Garden](https://youtube.com/@patsysgarden) | 127 | 38K | 16M |
 | [Paul Dinning](https://youtube.com/@pauldinningvideosforcats) | 1.8K | 827K | 671M |
 | [Red Squirrel Studios](https://youtube.com/@redsquirrelstudios) | 214 | 120K | 48M |
@@ -88,7 +88,7 @@ This list updates once a day, feel free to [add any missing channels](#add-a-cha
 
 | Channel ↕ | # Videos ↕ | Subscribers ↕ | Views ↕ |
 | --- | --- | --- | --- |
-| [Blind Cat Rescue dynamic-channel-data Sanctuary, Inc](https://youtube.com/@blindcatrescuesanctuary) | 3.8K | 11K | 2.8M |
+| [Blind Cat Rescue dynamic-channel-data Sanctuary, Inc](https://youtube.com/@blindcatrescuesanctuary) | 3.9K | 11K | 2.8M |
 | [CAT MAN CHRIS](https://youtube.com/@catmanchrispoole) | 163 | 940K | 276M |
 | [Cats Protection](https://youtube.com/@catsprotection) | 438 | 45K | 13M |
 | [Robin Seplut](https://youtube.com/@robinseplut) | 5.2K | 1.6M | 575M |
