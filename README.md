@@ -13,11 +13,11 @@ This list updates once a day, feel free to [add any missing channels](#add-a-cha
 | [Alvi cat channel](https://youtube.com/@alvicatchannel) | 335 | 71K | 16M |
 | [Frozen Kitten](https://youtube.com/@frozenkitten) | 92 | 64K | 7.2M |
 | [Why I smile](https://youtube.com/@whyismile) | 32 | 23 | 25K |
-| [Hosico Cat](https://youtube.com/@hosico_cat) | 963 | 422K | 131M |
+| [Hosico Cat](https://youtube.com/@hosico_cat) | 964 | 423K | 131M |
 | [Jonasek The Cat](https://youtube.com/@jonasekthecat) | 58 | 29K | 8.2M |
 | [Lil Bowie Cat](https://youtube.com/@lilbowiecat9121) | 8 | 101 | 9.3K |
-| [Lil BUB](https://youtube.com/@lilbub) | 272 | 325K | 60M |
-| [Mico Kitty](https://youtube.com/@micokitty) | 902 | 4.3K | 971K |
+| [Lil BUB](https://youtube.com/@lilbub) | 273 | 325K | 60M |
+| [Mico Kitty](https://youtube.com/@micokitty) | 902 | 4.3K | 972K |
 | [IAmNalaCat](https://youtube.com/@iamnalacat) | 109 | 29K | 1.3M |
 | [N2 Cat Crew](https://youtube.com/@n2catcrew) | 302 | 158K | 60M |
 | [Puko's Porch](https://youtube.com/@pukosporch) | 89 | 1.7K | 362K |
@@ -52,10 +52,10 @@ This list updates once a day, feel free to [add any missing channels](#add-a-cha
 | [크집사](https://youtube.com/@claire_luvcat) | 1.4K | 1.4M | 452M |
 | [Krzysztof Smejlis](https://youtube.com/@bobonikita) | 508 | 39K | 36M |
 | [Maggie and Brophy](https://youtube.com/@maggieandbrophy1327) | 223 | 2.5K | 594K |
-| [Miaou](https://youtube.com/@miaou-cat) | 6.5K | 149K | 131M |
+| [Miaou](https://youtube.com/@miaou-cat) | 6.6K | 149K | 131M |
 | [My 3 Feral Cats](https://youtube.com/@my3feralcats) | 3.2K | 3.2K | 1.3M |
 | [My Kitti Cats](https://youtube.com/@mykitticats) | 226 | 6.3K | 254K |
-| [Ozzie and Zeke](https://youtube.com/@ozzieandzeke) | 559 | 1.4K | 432K |
+| [Ozzie and Zeke](https://youtube.com/@ozzieandzeke) | 560 | 1.4K | 432K |
 | [Pastel Cat World](https://youtube.com/@pastelcatworld) | 2.9K | 313K | 283M |
 | [pawsthekitty](https://youtube.com/@pawsthekitty) | 112 | 665 | 132K |
 | [Oriental Cats Rexton dynamic-channel-data Bella](https://youtube.com/@rextonorientalcat) | 176 | 3.7K | 1.3M |
@@ -71,7 +71,7 @@ This list updates once a day, feel free to [add any missing channels](#add-a-cha
 | Channel ↕ | # Videos ↕ | Subscribers ↕ | Views ↕ |
 | --- | --- | --- | --- |
 | [Birder King](https://youtube.com/@birderking) | 271 | 283K | 202M |
-| [CAT TV](https://youtube.com/@cattvgames) | 599 | 111K | 48M |
+| [CAT TV](https://youtube.com/@cattvgames) | 600 | 111K | 48M |
 | [Patsy's Garden](https://youtube.com/@patsysgarden) | 127 | 38K | 17M |
 | [Paul Dinning](https://youtube.com/@pauldinningvideosforcats) | 1.8K | 827K | 671M |
 | [Red Squirrel Studios](https://youtube.com/@redsquirrelstudios) | 214 | 120K | 49M |
