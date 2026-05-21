@@ -34,7 +34,7 @@ This list updates once a day, feel free to [add any missing channels](#add-a-cha
 | --- | --- | --- | --- |
 | [Arirang은 고양이들 내가 주인](https://youtube.com/@아리랑은고양이들) | 741 | 592K | 336M |
 | [Bad Cat](https://youtube.com/@badcattube) | 58 | 85K | 11M |
-| [CATMANTOO](https://youtube.com/@catmantoo) | 86 | 228K | 95M |
+| [CATMANTOO](https://youtube.com/@catmantoo) | 85 | 228K | 95M |
 | [CatVantage Story](https://youtube.com/@catvantagestory) | 54 | 5.3K | 866K |
 | [Cole and Marmalade](https://youtube.com/@coleandmarmalade) | 494 | 1.4M | 442M |
 | [Dream dynamic-channel-data Diamond Cats](https://youtube.com/@dreamdiamondcats) | 72 | 416 | 122K |
@@ -51,7 +51,7 @@ This list updates once a day, feel free to [add any missing channels](#add-a-cha
 | [스튜디오 그냥](https://youtube.com/@studiognyang) | 702 | 3.7M | 1.5B |
 | [크집사](https://youtube.com/@claire_luvcat) | 1.4K | 1.4M | 453M |
 | [Krzysztof Smejlis](https://youtube.com/@bobonikita) | 508 | 39K | 36M |
-| [Maggie and Brophy](https://youtube.com/@maggieandbrophy1327) | 228 | 2.6K | 600K |
+| [Maggie and Brophy](https://youtube.com/@maggieandbrophy1327) | 230 | 2.6K | 603K |
 | [Miaou](https://youtube.com/@miaou-cat) | 6.6K | 149K | 131M |
 | [My 3 Feral Cats](https://youtube.com/@my3feralcats) | 3.2K | 3.2K | 1.3M |
 | [My Kitti Cats](https://youtube.com/@mykitticats) | 226 | 6.3K | 254K |
@@ -71,10 +71,10 @@ This list updates once a day, feel free to [add any missing channels](#add-a-cha
 | Channel ↕ | # Videos ↕ | Subscribers ↕ | Views ↕ |
 | --- | --- | --- | --- |
 | [Birder King](https://youtube.com/@birderking) | 271 | 283K | 203M |
-| [CAT TV](https://youtube.com/@cattvgames) | 602 | 112K | 48M |
+| [CAT TV](https://youtube.com/@cattvgames) | 603 | 112K | 48M |
 | [Patsy's Garden](https://youtube.com/@patsysgarden) | 127 | 39K | 17M |
 | [Paul Dinning](https://youtube.com/@pauldinningvideosforcats) | 1.8K | 828K | 672M |
-| [Red Squirrel Studios](https://youtube.com/@redsquirrelstudios) | 214 | 120K | 49M |
+| [Red Squirrel Studios](https://youtube.com/@redsquirrelstudios) | 214 | 121K | 49M |
 | [Relax My Cat - Relaxing Music for Cats](https://youtube.com/@relaxmycat) | 2.8K | 1.1M | 337M |
 
 ### Cat Animations
