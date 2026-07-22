@@ -13,7 +13,7 @@ This list updates once a day, feel free to [add any missing channels](#add-a-cha
 | [Alvi cat channel](https://youtube.com/@alvicatchannel) | 335 | 71K | 17M |
 | [Frozen Kitten](https://youtube.com/@frozenkitten) | 92 | 64K | 7.2M |
 | [Why I smile](https://youtube.com/@whyismile) | 32 | 23 | 25K |
-| [Hosico Cat](https://youtube.com/@hosico_cat) | 987 | 422K | 132M |
+| [Hosico Cat](https://youtube.com/@hosico_cat) | 988 | 422K | 132M |
 | [Jonasek The Cat](https://youtube.com/@jonasekthecat) | 58 | 29K | 8.2M |
 | [Lil Bowie Cat](https://youtube.com/@lilbowiecat9121) | 8 | 100 | 9.3K |
 | [Lil BUB](https://youtube.com/@lilbub) | 277 | 324K | 61M |
@@ -42,16 +42,16 @@ This list updates once a day, feel free to [add any missing channels](#add-a-cha
 | [Rain Oasis](https://youtube.com/@stampandcoin) | 7 | 49K | 198 |
 | [Ginger Kitties Four](https://youtube.com/@gingerkittiesfour) | 517 | 411K | 160M |
 | [Hot Rocket Bengal Cats](https://youtube.com/@hotrocketbengalcats) | 27 | 12K | 3.7M |
-| [Jennifer Morales - Feline Films](https://youtube.com/@jennifermoralesfelinefilms) | 897 | 14K | 3.0M |
+| [Jennifer Morales - Feline Films](https://youtube.com/@jennifermoralesfelinefilms) | 898 | 14K | 3.0M |
 | [The Kits Cats](https://youtube.com/@drnworbskitscats) | 877 | 109K | 50M |
 | [Kitten Academy](https://youtube.com/@kittenacademy) | 3.0K | 235K | 35M |
 | [Kittipandas](https://youtube.com/@kittipandas) | 46 | 687 | 18K |
-| [Kittisaurus](https://youtube.com/@kittisaurus) | 296 | 2.8M | 644M |
+| [Kittisaurus](https://youtube.com/@kittisaurus) | 296 | 2.8M | 645M |
 | [Luvcat Home](https://youtube.com/@claireluvcat) | 4 | 180K | 1.8M |
 | [스튜디오 그냥](https://youtube.com/@studiognyang) | 706 | 3.7M | 1.5B |
-| [크집사](https://youtube.com/@claire_luvcat) | 1.4K | 1.4M | 457M |
+| [크집사](https://youtube.com/@claire_luvcat) | 1.4K | 1.4M | 458M |
 | [Krzysztof Smejlis](https://youtube.com/@bobonikita) | 509 | 39K | 36M |
-| [Maggie and Brophy](https://youtube.com/@maggieandbrophy1327) | 278 | 3.1K | 707K |
+| [Maggie and Brophy](https://youtube.com/@maggieandbrophy1327) | 279 | 3.1K | 707K |
 | [Miaou](https://youtube.com/@miaou-cat) | 6.8K | 149K | 132M |
 | [My 3 Feral Cats](https://youtube.com/@my3feralcats) | 3.2K | 3.2K | 1.3M |
 | [My Kitti Cats](https://youtube.com/@mykitticats) | 258 | 6.4K | 301K |
