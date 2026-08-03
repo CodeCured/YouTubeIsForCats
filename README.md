@@ -36,7 +36,7 @@ This list updates once a day, feel free to [add any missing channels](#add-a-cha
 | [Bad Cat](https://youtube.com/@badcattube) | 58 | 84K | 11M |
 | [CATMANTOO](https://youtube.com/@catmantoo) | 88 | 230K | 91M |
 | [CatVantage Story](https://youtube.com/@catvantagestory) | 54 | 5.3K | 877K |
-| [Cole and Marmalade](https://youtube.com/@coleandmarmalade) | 497 | 1.4M | 443M |
+| [Cole and Marmalade](https://youtube.com/@coleandmarmalade) | 498 | 1.4M | 443M |
 | [Dream dynamic-channel-data Diamond Cats](https://youtube.com/@dreamdiamondcats) | 72 | 413 | 122K |
 | [Funnycatsandnicefish](https://youtube.com/@funnycatsandnicefish) | 375 | 544K | 189M |
 | [Rain Oasis](https://youtube.com/@stampandcoin) | 7 | 49K | 198 |
@@ -54,8 +54,8 @@ This list updates once a day, feel free to [add any missing channels](#add-a-cha
 | [Maggie and Brophy](https://youtube.com/@maggieandbrophy1327) | 285 | 3.1K | 722K |
 | [Miaou](https://youtube.com/@miaou-cat) | 6.8K | 149K | 132M |
 | [My 3 Feral Cats](https://youtube.com/@my3feralcats) | 3.2K | 3.2K | 1.3M |
-| [My Kitti Cats](https://youtube.com/@mykitticats) | 259 | 6.4K | 301K |
-| [Ozzie and Zeke](https://youtube.com/@ozzieandzeke) | 568 | 1.4K | 445K |
+| [My Kitti Cats](https://youtube.com/@mykitticats) | 260 | 6.4K | 301K |
+| [Ozzie and Zeke](https://youtube.com/@ozzieandzeke) | 569 | 1.4K | 445K |
 | [Pastel Cat World](https://youtube.com/@pastelcatworld) | 3.0K | 314K | 285M |
 | [pawsthekitty](https://youtube.com/@pawsthekitty) | 112 | 662 | 132K |
 | [Oriental Cats Rexton dynamic-channel-data Bella](https://youtube.com/@rextonorientalcat) | 176 | 3.8K | 1.3M |
@@ -71,7 +71,7 @@ This list updates once a day, feel free to [add any missing channels](#add-a-cha
 | Channel ↕ | # Videos ↕ | Subscribers ↕ | Views ↕ |
 | --- | --- | --- | --- |
 | [Birder King](https://youtube.com/@birderking) | 276 | 292K | 211M |
-| [CAT TV](https://youtube.com/@cattvgames) | 642 | 121K | 52M |
+| [CAT TV](https://youtube.com/@cattvgames) | 644 | 121K | 52M |
 | [Patsy's Garden](https://youtube.com/@patsysgarden) | 127 | 40K | 17M |
 | [Paul Dinning](https://youtube.com/@pauldinningvideosforcats) | 1.8K | 832K | 680M |
 | [Red Squirrel Studios](https://youtube.com/@redsquirrelstudios) | 215 | 125K | 54M |
