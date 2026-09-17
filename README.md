@@ -35,11 +35,11 @@ This list updates once a day, feel free to [add any missing channels](#add-a-cha
 | [Arirang은 고양이들 내가 주인](https://youtube.com/@아리랑은고양이들) | 741 | 587K | 336M |
 | [Bad Cat](https://youtube.com/@badcattube) | 58 | 84K | 11M |
 | [CATMANTOO](https://youtube.com/@catmantoo) | 88 | 230K | 91M |
-| [CatVantage Story](https://youtube.com/@catvantagestory) | 54 | 5.3K | 884K |
+| [CatVantage Story](https://youtube.com/@catvantagestory) | 54 | 5.3K | 885K |
 | [Cole and Marmalade](https://youtube.com/@coleandmarmalade) | 500 | 1.4M | 443M |
 | [Dream dynamic-channel-data Diamond Cats](https://youtube.com/@dreamdiamondcats) | 72 | 415 | 122K |
 | [Funnycatsandnicefish](https://youtube.com/@funnycatsandnicefish) | 375 | 544K | 189M |
-| [GBC Cats](https://youtube.com/@gbccats) | 63 | 49K | 97K |
+| [GBC Cats](https://youtube.com/@gbccats) | 58 | 49K | 88K |
 | [Ginger Kitties Four](https://youtube.com/@gingerkittiesfour) | 517 | 410K | 160M |
 | [Hot Rocket Bengal Cats](https://youtube.com/@hotrocketbengalcats) | 27 | 12K | 3.8M |
 | [Jennifer Morales - Feline Films](https://youtube.com/@jennifermoralesfelinefilms) | 914 | 18K | 3.2M |
@@ -70,10 +70,10 @@ This list updates once a day, feel free to [add any missing channels](#add-a-cha
 
 | Channel ↕ | # Videos ↕ | Subscribers ↕ | Views ↕ |
 | --- | --- | --- | --- |
-| [Birder King](https://youtube.com/@birderking) | 280 | 296K | 216M |
-| [CAT TV](https://youtube.com/@cattvgames) | 672 | 128K | 54M |
+| [Birder King](https://youtube.com/@birderking) | 280 | 296K | 217M |
+| [CAT TV](https://youtube.com/@cattvgames) | 673 | 128K | 54M |
 | [Patsy's Garden](https://youtube.com/@patsysgarden) | 127 | 41K | 18M |
-| [Paul Dinning](https://youtube.com/@pauldinningvideosforcats) | 1.8K | 835K | 686M |
+| [Paul Dinning](https://youtube.com/@pauldinningvideosforcats) | 1.8K | 835K | 687M |
 | [Red Squirrel Studios](https://youtube.com/@redsquirrelstudios) | 216 | 129K | 58M |
 | [Relax My Cat - Relaxing Music for Cats](https://youtube.com/@relaxmycat) | 2.9K | 1.1M | 340M |
 
@@ -81,7 +81,7 @@ This list updates once a day, feel free to [add any missing channels](#add-a-cha
 
 | Channel ↕ | # Videos ↕ | Subscribers ↕ | Views ↕ |
 | --- | --- | --- | --- |
-| [Simon's Cat](https://youtube.com/@simonscat) | 799 | 6.6M | 1.8B |
+| [Simon's Cat](https://youtube.com/@simonscat) | 800 | 6.6M | 1.8B |
 | [Simon's Cat Extra](https://youtube.com/@simonscatextra) | 1.2K | 943K | 271M |
 
 ### Cat Charities / Rescue
