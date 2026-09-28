@@ -21,8 +21,8 @@ This list updates once a day, feel free to [add any missing channels](#add-a-cha
 | [IAmNalaCat](https://youtube.com/@iamnalacat) | 109 | 29K | 1.3M |
 | [N2 Cat Crew](https://youtube.com/@n2catcrew) | 327 | 158K | 60M |
 | [Puko's Porch](https://youtube.com/@pukosporch) | 89 | 1.7K | 362K |
-| [CatPusic Team](https://youtube.com/@catpusicteam) | 351 | 2.1M | 867M |
-| [Cat Roxy Rocker Kitty](https://youtube.com/@rockerroxy) | 113 | 3.1K | 209K |
+| [CatPusic Team](https://youtube.com/@catpusicteam) | 352 | 2.1M | 867M |
+| [Cat Roxy Rocker Kitty](https://youtube.com/@rockerroxy) | 114 | 3.1K | 209K |
 | [Sissi The Red Cat](https://youtube.com/@veterinarylife) | 471 | 33K | 3.3M |
 | [The Six Cats Parade](https://youtube.com/@thesixcatsparade) | 421 | 758 | 628K |
 | [smoothiethecat](https://youtube.com/@smoothiethecat) | 159 | 142K | 26M |
@@ -55,7 +55,7 @@ This list updates once a day, feel free to [add any missing channels](#add-a-cha
 | [Miaou](https://youtube.com/@miaou-cat) | 6.8K | 149K | 132M |
 | [My 3 Feral Cats](https://youtube.com/@my3feralcats) | 3.2K | 3.2K | 1.3M |
 | [My Kitti Cats](https://youtube.com/@mykitticats) | 262 | 6.4K | 304K |
-| [Ozzie and Zeke](https://youtube.com/@ozzieandzeke) | 576 | 1.4K | 451K |
+| [Ozzie and Zeke](https://youtube.com/@ozzieandzeke) | 577 | 1.4K | 451K |
 | [Pastel Cat World](https://youtube.com/@pastelcatworld) | 3.0K | 314K | 287M |
 | [pawsthekitty](https://youtube.com/@pawsthekitty) | 112 | 660 | 132K |
 | [Oriental Cats Rexton dynamic-channel-data Bella](https://youtube.com/@rextonorientalcat) | 176 | 3.8K | 1.3M |
@@ -71,7 +71,7 @@ This list updates once a day, feel free to [add any missing channels](#add-a-cha
 | Channel ↕ | # Videos ↕ | Subscribers ↕ | Views ↕ |
 | --- | --- | --- | --- |
 | [Birder King](https://youtube.com/@birderking) | 280 | 298K | 218M |
-| [CAT TV](https://youtube.com/@cattvgames) | 679 | 129K | 55M |
+| [CAT TV](https://youtube.com/@cattvgames) | 680 | 129K | 55M |
 | [Patsy's Garden](https://youtube.com/@patsysgarden) | 127 | 42K | 18M |
 | [Paul Dinning](https://youtube.com/@pauldinningvideosforcats) | 1.8K | 835K | 688M |
 | [Red Squirrel Studios](https://youtube.com/@redsquirrelstudios) | 216 | 130K | 59M |
