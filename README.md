@@ -13,13 +13,13 @@ This list updates once a day, feel free to [add any missing channels](#add-a-cha
 | [Alvi cat channel](https://youtube.com/@alvicatchannel) | 335 | 71K | 17M |
 | [Frozen Kitten](https://youtube.com/@frozenkitten) | 92 | 64K | 7.2M |
 | [Why I smile](https://youtube.com/@whyismile) | 32 | 23 | 25K |
-| [Hosico Cat](https://youtube.com/@hosico_cat) | 1.1K | 421K | 133M |
+| [Hosico Cat](https://youtube.com/@hosico_cat) | 1.1K | 421K | 134M |
 | [Jonasek The Cat](https://youtube.com/@jonasekthecat) | 58 | 29K | 8.3M |
 | [Lil Bowie Cat](https://youtube.com/@lilbowiecat9121) | 8 | 100 | 9.3K |
 | [Lil BUB](https://youtube.com/@lilbub) | 277 | 324K | 61M |
 | [Mico Kitty](https://youtube.com/@micokitty) | 903 | 4.3K | 1.1M |
 | [IAmNalaCat](https://youtube.com/@iamnalacat) | 109 | 29K | 1.3M |
-| [N2 Cat Crew](https://youtube.com/@n2catcrew) | 330 | 158K | 60M |
+| [N2 Cat Crew](https://youtube.com/@n2catcrew) | 331 | 158K | 60M |
 | [Puko's Porch](https://youtube.com/@pukosporch) | 89 | 1.7K | 362K |
 | [CatPusic Team](https://youtube.com/@catpusicteam) | 353 | 2.1M | 868M |
 | [Cat Roxy Rocker Kitty](https://youtube.com/@rockerroxy) | 114 | 3.1K | 210K |
@@ -32,7 +32,7 @@ This list updates once a day, feel free to [add any missing channels](#add-a-cha
 
 | Channel ↕ | # Videos ↕ | Subscribers ↕ | Views ↕ |
 | --- | --- | --- | --- |
-| [Arirang은 고양이들 내가 주인](https://youtube.com/@아리랑은고양이들) | 741 | 586K | 336M |
+| [Arirang은 고양이들 내가 주인](https://youtube.com/@아리랑은고양이들) | 741 | 586K | 337M |
 | [Bad Cat](https://youtube.com/@badcattube) | 58 | 84K | 11M |
 | [CATMANTOO](https://youtube.com/@catmantoo) | 88 | 230K | 91M |
 | [CatVantage Story](https://youtube.com/@catvantagestory) | 54 | 5.4K | 889K |
@@ -42,11 +42,11 @@ This list updates once a day, feel free to [add any missing channels](#add-a-cha
 | [GBC Cats](https://youtube.com/@gbccats) | 19 | 49K | 41K |
 | [Ginger Kitties Four](https://youtube.com/@gingerkittiesfour) | 517 | 410K | 160M |
 | [Hot Rocket Bengal Cats](https://youtube.com/@hotrocketbengalcats) | 27 | 12K | 3.8M |
-| [Jennifer Morales - Feline Films](https://youtube.com/@jennifermoralesfelinefilms) | 919 | 19K | 3.3M |
+| [Jennifer Morales - Feline Films](https://youtube.com/@jennifermoralesfelinefilms) | 920 | 19K | 3.4M |
 | [The Kits Cats](https://youtube.com/@drnworbskitscats) | 878 | 109K | 50M |
 | [Kitten Academy](https://youtube.com/@kittenacademy) | 3.1K | 235K | 36M |
 | [Kittipandas](https://youtube.com/@kittipandas) | 46 | 685 | 18K |
-| [Kittisaurus](https://youtube.com/@kittisaurus) | 306 | 2.8M | 648M |
+| [Kittisaurus](https://youtube.com/@kittisaurus) | 307 | 2.8M | 648M |
 | [Luvcat Home](https://youtube.com/@claireluvcat) | 4 | 180K | 1.8M |
 | [스튜디오 그냥](https://youtube.com/@studiognyang) | 711 | 3.7M | 1.5B |
 | [크집사](https://youtube.com/@claire_luvcat) | 1.5K | 1.4M | 464M |
@@ -74,15 +74,15 @@ This list updates once a day, feel free to [add any missing channels](#add-a-cha
 | [CAT TV](https://youtube.com/@cattvgames) | 687 | 135K | 55M |
 | [Patsy's Garden](https://youtube.com/@patsysgarden) | 127 | 42K | 18M |
 | [Paul Dinning](https://youtube.com/@pauldinningvideosforcats) | 1.8K | 836K | 690M |
-| [Red Squirrel Studios](https://youtube.com/@redsquirrelstudios) | 216 | 130K | 60M |
+| [Red Squirrel Studios](https://youtube.com/@redsquirrelstudios) | 216 | 131K | 60M |
 | [Relax My Cat - Relaxing Music for Cats](https://youtube.com/@relaxmycat) | 2.9K | 1.1M | 341M |
 
 ### Cat Animations
 
 | Channel ↕ | # Videos ↕ | Subscribers ↕ | Views ↕ |
 | --- | --- | --- | --- |
-| [Simon's Cat](https://youtube.com/@simonscat) | 820 | 6.6M | 1.9B |
-| [Simon's Cat Extra](https://youtube.com/@simonscatextra) | 1.2K | 948K | 275M |
+| [Simon's Cat](https://youtube.com/@simonscat) | 822 | 6.6M | 1.9B |
+| [Simon's Cat Extra](https://youtube.com/@simonscatextra) | 1.2K | 949K | 276M |
 
 ### Cat Charities / Rescue
 
