@@ -71,7 +71,7 @@ This list updates once a day, feel free to [add any missing channels](#add-a-cha
 | Channel ↕ | # Videos ↕ | Subscribers ↕ | Views ↕ |
 | --- | --- | --- | --- |
 | [Birder King](https://youtube.com/@birderking) | 281 | 299K | 220M |
-| [CAT TV](https://youtube.com/@cattvgames) | 691 | 136K | 55M |
+| [CAT TV](https://youtube.com/@cattvgames) | 691 | 136K | 56M |
 | [Patsy's Garden](https://youtube.com/@patsysgarden) | 127 | 42K | 18M |
 | [Paul Dinning](https://youtube.com/@pauldinningvideosforcats) | 1.8K | 836K | 690M |
 | [Red Squirrel Studios](https://youtube.com/@redsquirrelstudios) | 216 | 131K | 61M |
@@ -81,8 +81,8 @@ This list updates once a day, feel free to [add any missing channels](#add-a-cha
 
 | Channel ↕ | # Videos ↕ | Subscribers ↕ | Views ↕ |
 | --- | --- | --- | --- |
-| [Simon's Cat](https://youtube.com/@simonscat) | 824 | 6.6M | 1.9B |
-| [Simon's Cat Extra](https://youtube.com/@simonscatextra) | 1.2K | 951K | 276M |
+| [Simon's Cat](https://youtube.com/@simonscat) | 825 | 6.6M | 1.9B |
+| [Simon's Cat Extra](https://youtube.com/@simonscatextra) | 1.2K | 952K | 277M |
 
 ### Cat Charities / Rescue
 
