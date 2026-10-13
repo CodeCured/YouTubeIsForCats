@@ -46,7 +46,7 @@ This list updates once a day, feel free to [add any missing channels](#add-a-cha
 | [The Kits Cats](https://youtube.com/@drnworbskitscats) | 878 | 109K | 50M |
 | [Kitten Academy](https://youtube.com/@kittenacademy) | 3.1K | 235K | 36M |
 | [Kittipandas](https://youtube.com/@kittipandas) | 46 | 685 | 18K |
-| [Kittisaurus](https://youtube.com/@kittisaurus) | 307 | 2.8M | 648M |
+| [Kittisaurus](https://youtube.com/@kittisaurus) | 308 | 2.8M | 648M |
 | [Luvcat Home](https://youtube.com/@claireluvcat) | 4 | 180K | 1.8M |
 | [스튜디오 그냥](https://youtube.com/@studiognyang) | 711 | 3.7M | 1.5B |
 | [크집사](https://youtube.com/@claire_luvcat) | 1.5K | 1.4M | 464M |
@@ -81,8 +81,8 @@ This list updates once a day, feel free to [add any missing channels](#add-a-cha
 
 | Channel ↕ | # Videos ↕ | Subscribers ↕ | Views ↕ |
 | --- | --- | --- | --- |
-| [Simon's Cat](https://youtube.com/@simonscat) | 825 | 6.6M | 1.9B |
-| [Simon's Cat Extra](https://youtube.com/@simonscatextra) | 1.2K | 952K | 277M |
+| [Simon's Cat](https://youtube.com/@simonscat) | 826 | 6.6M | 1.9B |
+| [Simon's Cat Extra](https://youtube.com/@simonscatextra) | 1.2K | 953K | 277M |
 
 ### Cat Charities / Rescue
 
@@ -90,7 +90,7 @@ This list updates once a day, feel free to [add any missing channels](#add-a-cha
 | --- | --- | --- | --- |
 | [Blind Cat Rescue dynamic-channel-data Sanctuary, Inc](https://youtube.com/@blindcatrescuesanctuary) | 4.0K | 11K | 3.0M |
 | [CAT MAN CHRIS](https://youtube.com/@catmanchrispoole) | 170 | 937K | 170M |
-| [Cats Protection](https://youtube.com/@catsprotection) | 443 | 46K | 12M |
+| [Cats Protection](https://youtube.com/@catsprotection) | 444 | 46K | 12M |
 | [Robin Seplut](https://youtube.com/@robinseplut) | 5.5K | 1.6M | 579M |
 | [TinyKittens HQ](https://youtube.com/@tinykittens) | 1.5K | 259K | 206M |
 
