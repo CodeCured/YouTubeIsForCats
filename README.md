@@ -35,7 +35,7 @@ This list updates once a day, feel free to [add any missing channels](#add-a-cha
 | [Arirang은 고양이들 내가 주인](https://youtube.com/@아리랑은고양이들) | 741 | 585K | 337M |
 | [Bad Cat](https://youtube.com/@badcattube) | 58 | 84K | 11M |
 | [CATMANTOO](https://youtube.com/@catmantoo) | 88 | 230K | 91M |
-| [CatVantage Story](https://youtube.com/@catvantagestory) | 54 | 5.4K | 890K |
+| [CatVantage Story](https://youtube.com/@catvantagestory) | 54 | 5.4K | 891K |
 | [Cole and Marmalade](https://youtube.com/@coleandmarmalade) | 501 | 1.4M | 444M |
 | [Dream dynamic-channel-data Diamond Cats](https://youtube.com/@dreamdiamondcats) | 72 | 415 | 123K |
 | [Funnycatsandnicefish](https://youtube.com/@funnycatsandnicefish) | 375 | 543K | 189M |
@@ -70,8 +70,8 @@ This list updates once a day, feel free to [add any missing channels](#add-a-cha
 
 | Channel ↕ | # Videos ↕ | Subscribers ↕ | Views ↕ |
 | --- | --- | --- | --- |
-| [Birder King](https://youtube.com/@birderking) | 282 | 299K | 220M |
-| [CAT TV](https://youtube.com/@cattvgames) | 691 | 136K | 56M |
+| [Birder King](https://youtube.com/@birderking) | 282 | 300K | 221M |
+| [CAT TV](https://youtube.com/@cattvgames) | 692 | 136K | 56M |
 | [Patsy's Garden](https://youtube.com/@patsysgarden) | 127 | 42K | 18M |
 | [Paul Dinning](https://youtube.com/@pauldinningvideosforcats) | 1.8K | 836K | 691M |
 | [Red Squirrel Studios](https://youtube.com/@redsquirrelstudios) | 216 | 131K | 61M |
@@ -81,7 +81,7 @@ This list updates once a day, feel free to [add any missing channels](#add-a-cha
 
 | Channel ↕ | # Videos ↕ | Subscribers ↕ | Views ↕ |
 | --- | --- | --- | --- |
-| [Simon's Cat](https://youtube.com/@simonscat) | 827 | 6.6M | 1.9B |
+| [Simon's Cat](https://youtube.com/@simonscat) | 828 | 6.6M | 1.9B |
 | [Simon's Cat Extra](https://youtube.com/@simonscatextra) | 1.2K | 953K | 277M |
 
 ### Cat Charities / Rescue
