@@ -49,7 +49,7 @@ This list updates once a day, feel free to [add any missing channels](#add-a-cha
 | [Kittisaurus](https://youtube.com/@kittisaurus) | 308 | 2.8M | 648M |
 | [Luvcat Home](https://youtube.com/@claireluvcat) | 4 | 179K | 1.8M |
 | [스튜디오 그냥](https://youtube.com/@studiognyang) | 711 | 3.7M | 1.5B |
-| [크집사](https://youtube.com/@claire_luvcat) | 1.5K | 1.4M | 464M |
+| [크집사](https://youtube.com/@claire_luvcat) | 1.5K | 1.4M | 465M |
 | [Krzysztof Smejlis](https://youtube.com/@bobonikita) | 509 | 39K | 36M |
 | [Maggie and Brophy](https://youtube.com/@maggieandbrophy1327) | 295 | 3.3K | 789K |
 | [Miaou](https://youtube.com/@miaou-cat) | 6.8K | 149K | 133M |
@@ -82,7 +82,7 @@ This list updates once a day, feel free to [add any missing channels](#add-a-cha
 | Channel ↕ | # Videos ↕ | Subscribers ↕ | Views ↕ |
 | --- | --- | --- | --- |
 | [Simon's Cat](https://youtube.com/@simonscat) | 830 | 6.6M | 1.9B |
-| [Simon's Cat Extra](https://youtube.com/@simonscatextra) | 1.2K | 954K | 277M |
+| [Simon's Cat Extra](https://youtube.com/@simonscatextra) | 1.2K | 954K | 278M |
 
 ### Cat Charities / Rescue
 
