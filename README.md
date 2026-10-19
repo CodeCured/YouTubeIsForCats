@@ -71,7 +71,7 @@ This list updates once a day, feel free to [add any missing channels](#add-a-cha
 | Channel ↕ | # Videos ↕ | Subscribers ↕ | Views ↕ |
 | --- | --- | --- | --- |
 | [Birder King](https://youtube.com/@birderking) | 282 | 300K | 221M |
-| [CAT TV](https://youtube.com/@cattvgames) | 694 | 136K | 56M |
+| [CAT TV](https://youtube.com/@cattvgames) | 695 | 136K | 56M |
 | [Patsy's Garden](https://youtube.com/@patsysgarden) | 126 | 42K | 18M |
 | [Paul Dinning](https://youtube.com/@pauldinningvideosforcats) | 1.8K | 837K | 691M |
 | [Red Squirrel Studios](https://youtube.com/@redsquirrelstudios) | 216 | 131K | 61M |
@@ -98,7 +98,7 @@ This list updates once a day, feel free to [add any missing channels](#add-a-cha
 
 | Channel ↕ | # Videos ↕ | Subscribers ↕ | Views ↕ |
 | --- | --- | --- | --- |
-| [CatCrazy](https://youtube.com/@catcrazychannel) | 513 | 217K | 2.2M |
+| [CatCrazy](https://youtube.com/@catcrazychannel) | 514 | 217K | 2.2M |
 | [Cat Lessons](https://youtube.com/@catlessons) | 76 | 80K | 27M |
 
 
