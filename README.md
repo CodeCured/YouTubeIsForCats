@@ -19,7 +19,7 @@ This list updates once a day, feel free to [add any missing channels](#add-a-cha
 | [Lil BUB](https://youtube.com/@lilbub) | 277 | 323k | 61M |
 | [Mico Kitty](https://youtube.com/@micokitty) | 903 | 4.3k | 1.1M |
 | [IAmNalaCat](https://youtube.com/@iamnalacat) | 109 | 29k | 1.3M |
-| [N2 Cat Crew](https://youtube.com/@n2catcrew) | 334 | 158k | 60M |
+| [N2 Cat Crew](https://youtube.com/@n2catcrew) | 335 | 158k | 60M |
 | [Puko's Porch](https://youtube.com/@pukosporch) | 89 | 1.7k | 362k |
 | [CatPusic Team](https://youtube.com/@catpusicteam) | 357 | 2.1M | 875M |
 | [Cat Roxy Rocker Kitty](https://youtube.com/@rockerroxy) | 115 | 3.2k | 211k |
@@ -35,26 +35,26 @@ This list updates once a day, feel free to [add any missing channels](#add-a-cha
 | [Arirang은 고양이들 내가 주인](https://youtube.com/@아리랑은고양이들) | 742 | 583k | 337M |
 | [Bad Cat](https://youtube.com/@badcattube) | 58 | 84k | 11M |
 | [CATMANTOO](https://youtube.com/@catmantoo) | 91 | 230k | 91M |
-| [CatVantage Story](https://youtube.com/@catvantagestory) | 54 | 5.4k | 897k |
+| [CatVantage Story](https://youtube.com/@catvantagestory) | 54 | 5.4k | 898k |
 | [Cole and Marmalade](https://youtube.com/@coleandmarmalade) | 502 | 1.4M | 445M |
 | [Dream dynamic-channel-data Diamond Cats](https://youtube.com/@dreamdiamondcats) | 72 | 414 | 123k |
 | [Funnycatsandnicefish](https://youtube.com/@funnycatsandnicefish) | 376 | 543k | 189M |
 | [GBC Cats](https://youtube.com/@gbccats) | 8 | 49k | 14k |
 | [Ginger Kitties Four](https://youtube.com/@gingerkittiesfour) | 518 | 410k | 160M |
 | [Hot Rocket Bengal Cats](https://youtube.com/@hotrocketbengalcats) | 27 | 12k | 3.8M |
-| [Jennifer Morales - Feline Films](https://youtube.com/@jennifermoralesfelinefilms) | 931 | 22k | 3.5M |
+| [Jennifer Morales - Feline Films](https://youtube.com/@jennifermoralesfelinefilms) | 932 | 22k | 3.6M |
 | [The Kits Cats](https://youtube.com/@drnworbskitscats) | 878 | 109k | 50M |
-| [Kitten Academy](https://youtube.com/@kittenacademy) | 3.1k | 235k | 36M |
+| [Kitten Academy](https://youtube.com/@kittenacademy) | 3.1k | 235k | 34M |
 | [Kittipandas](https://youtube.com/@kittipandas) | 46 | 684 | 18k |
 | [Kittisaurus](https://youtube.com/@kittisaurus) | 313 | 2.8M | 649M |
 | [Luvcat Home](https://youtube.com/@claireluvcat) | 4 | 179k | 1.8M |
 | [스튜디오 그냥](https://youtube.com/@studiognyang) | 711 | 3.7M | 1.5B |
 | [크집사](https://youtube.com/@claire_luvcat) | 1.5k | 1.4M | 467M |
 | [Krzysztof Smejlis](https://youtube.com/@bobonikita) | 510 | 39k | 36M |
-| [Maggie and Brophy](https://youtube.com/@maggieandbrophy1327) | 306 | 3.4k | 829k |
+| [Maggie and Brophy](https://youtube.com/@maggieandbrophy1327) | 306 | 3.4k | 830k |
 | [Miaou](https://youtube.com/@miaou-cat) | 6.8k | 149k | 133M |
 | [My 3 Feral Cats](https://youtube.com/@my3feralcats) | 3.2k | 3.2k | 1.3M |
-| [My Kitti Cats](https://youtube.com/@mykitticats) | 262 | 6.4k | 304k |
+| [My Kitti Cats](https://youtube.com/@mykitticats) | 262 | 6.4k | 305k |
 | [Ozzie and Zeke](https://youtube.com/@ozzieandzeke) | 577 | 1.5k | 454k |
 | [Pastel Cat World](https://youtube.com/@pastelcatworld) | 3.0k | 314k | 289M |
 | [pawsthekitty](https://youtube.com/@pawsthekitty) | 112 | 660 | 132k |
@@ -70,7 +70,7 @@ This list updates once a day, feel free to [add any missing channels](#add-a-cha
 
 | Channel ↕ | # Videos ↕ | Subscribers ↕ | Views ↕ |
 | --- | --- | --- | --- |
-| [Birder King](https://youtube.com/@birderking) | 284 | 304k | 225M |
+| [Birder King](https://youtube.com/@birderking) | 284 | 304k | 226M |
 | [CAT TV](https://youtube.com/@cattvgames) | 709 | 139k | 58M |
 | [Patsy's Garden](https://youtube.com/@patsysgarden) | 130 | 43k | 19M |
 | [Paul Dinning](https://youtube.com/@pauldinningvideosforcats) | 1.8k | 839k | 696M |
