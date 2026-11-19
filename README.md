@@ -46,9 +46,9 @@ This list updates once a day, feel free to [add any missing channels](#add-a-cha
 | [The Kits Cats](https://youtube.com/@drnworbskitscats) | 878 | 109k | 50M |
 | [Kitten Academy](https://youtube.com/@kittenacademy) | 3.1k | 235k | 34M |
 | [Kittipandas](https://youtube.com/@kittipandas) | 46 | 684 | 18k |
-| [Kittisaurus](https://youtube.com/@kittisaurus) | 313 | 2.8M | 649M |
+| [Kittisaurus](https://youtube.com/@kittisaurus) | 313 | 2.8M | 650M |
 | [Luvcat Home](https://youtube.com/@claireluvcat) | 4 | 179k | 1.8M |
-| [스튜디오 그냥](https://youtube.com/@studiognyang) | 711 | 3.7M | 1.5B |
+| [스튜디오 그냥](https://youtube.com/@studiognyang) | 712 | 3.7M | 1.5B |
 | [크집사](https://youtube.com/@claire_luvcat) | 1.5k | 1.4M | 467M |
 | [Krzysztof Smejlis](https://youtube.com/@bobonikita) | 510 | 39k | 36M |
 | [Maggie and Brophy](https://youtube.com/@maggieandbrophy1327) | 306 | 3.4k | 830k |
@@ -64,14 +64,14 @@ This list updates once a day, feel free to [add any missing channels](#add-a-cha
 | [Talking Kitty Cat](https://youtube.com/@stevecash83) | 166 | 3.0M | 1.1B |
 | [Tom and Mimi](https://youtube.com/@tomandmimi) | 1.7k | 249k | 104M |
 | [Tom dynamic-channel-data Mimi](https://youtube.com/@tom_and_mimi) | 1.7k | 35k | 16M |
-| [랙돌열한스푼](https://youtube.com/@unboxingragdolls) | 1.1k | 513k | 159M |
+| [랙돌열한스푼](https://youtube.com/@unboxingragdolls) | 1.1k | 512k | 159M |
 
 ### Cat TV
 
 | Channel ↕ | # Videos ↕ | Subscribers ↕ | Views ↕ |
 | --- | --- | --- | --- |
 | [Birder King](https://youtube.com/@birderking) | 284 | 304k | 226M |
-| [CAT TV](https://youtube.com/@cattvgames) | 709 | 139k | 58M |
+| [CAT TV](https://youtube.com/@cattvgames) | 711 | 139k | 58M |
 | [Patsy's Garden](https://youtube.com/@patsysgarden) | 130 | 43k | 19M |
 | [Paul Dinning](https://youtube.com/@pauldinningvideosforcats) | 1.8k | 839k | 696M |
 | [Red Squirrel Studios](https://youtube.com/@redsquirrelstudios) | 217 | 134k | 64M |
@@ -81,8 +81,8 @@ This list updates once a day, feel free to [add any missing channels](#add-a-cha
 
 | Channel ↕ | # Videos ↕ | Subscribers ↕ | Views ↕ |
 | --- | --- | --- | --- |
-| [Simon's Cat](https://youtube.com/@simonscat) | 849 | 6.7M | 1.9B |
-| [Simon's Cat Extra](https://youtube.com/@simonscatextra) | 1.2k | 963k | 285M |
+| [Simon's Cat](https://youtube.com/@simonscat) | 850 | 6.7M | 1.9B |
+| [Simon's Cat Extra](https://youtube.com/@simonscatextra) | 1.2k | 964k | 285M |
 
 ### Cat Charities / Rescue
 
@@ -90,7 +90,7 @@ This list updates once a day, feel free to [add any missing channels](#add-a-cha
 | --- | --- | --- | --- |
 | [Blind Cat Rescue dynamic-channel-data Sanctuary, Inc](https://youtube.com/@blindcatrescuesanctuary) | 4.1k | 11k | 3.1M |
 | [CAT MAN CHRIS](https://youtube.com/@catmanchrispoole) | 170 | 936k | 170M |
-| [Cats Protection](https://youtube.com/@catsprotection) | 446 | 46k | 19M |
+| [Cats Protection](https://youtube.com/@catsprotection) | 446 | 46k | 20M |
 | [Robin Seplut](https://youtube.com/@robinseplut) | 5.7k | 1.6M | 581M |
 | [TinyKittens HQ](https://youtube.com/@tinykittens) | 1.5k | 259k | 207M |
 
@@ -98,7 +98,7 @@ This list updates once a day, feel free to [add any missing channels](#add-a-cha
 
 | Channel ↕ | # Videos ↕ | Subscribers ↕ | Views ↕ |
 | --- | --- | --- | --- |
-| [CatCrazy](https://youtube.com/@catcrazychannel) | 520 | 221k | 3.1M |
+| [CatCrazy](https://youtube.com/@catcrazychannel) | 521 | 221k | 3.1M |
 | [Cat Lessons](https://youtube.com/@catlessons) | 76 | 80k | 27M |
 
 
