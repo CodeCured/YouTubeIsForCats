@@ -21,7 +21,7 @@ This list updates once a day, feel free to [add any missing channels](#add-a-cha
 | [IAmNalaCat](https://youtube.com/@iamnalacat) | 109 | 29k | 1.3M |
 | [N2 Cat Crew](https://youtube.com/@n2catcrew) | 335 | 158k | 60M |
 | [Puko's Porch](https://youtube.com/@pukosporch) | 89 | 1.7k | 362k |
-| [CatPusic Team](https://youtube.com/@catpusicteam) | 357 | 2.1M | 875M |
+| [CatPusic Team](https://youtube.com/@catpusicteam) | 357 | 2.1M | 876M |
 | [Cat Roxy Rocker Kitty](https://youtube.com/@rockerroxy) | 115 | 3.2k | 211k |
 | [Sissi The Red Cat](https://youtube.com/@veterinarylife) | 471 | 33k | 3.3M |
 | [The Six Cats Parade](https://youtube.com/@thesixcatsparade) | 421 | 759 | 629k |
@@ -51,7 +51,7 @@ This list updates once a day, feel free to [add any missing channels](#add-a-cha
 | [스튜디오 그냥](https://youtube.com/@studiognyang) | 712 | 3.7M | 1.5B |
 | [크집사](https://youtube.com/@claire_luvcat) | 1.5k | 1.4M | 467M |
 | [Krzysztof Smejlis](https://youtube.com/@bobonikita) | 510 | 39k | 36M |
-| [Maggie and Brophy](https://youtube.com/@maggieandbrophy1327) | 306 | 3.4k | 830k |
+| [Maggie and Brophy](https://youtube.com/@maggieandbrophy1327) | 307 | 3.4k | 830k |
 | [Miaou](https://youtube.com/@miaou-cat) | 6.8k | 149k | 133M |
 | [My 3 Feral Cats](https://youtube.com/@my3feralcats) | 3.2k | 3.2k | 1.3M |
 | [My Kitti Cats](https://youtube.com/@mykitticats) | 262 | 6.4k | 305k |
@@ -74,14 +74,14 @@ This list updates once a day, feel free to [add any missing channels](#add-a-cha
 | [CAT TV](https://youtube.com/@cattvgames) | 711 | 139k | 58M |
 | [Patsy's Garden](https://youtube.com/@patsysgarden) | 130 | 43k | 19M |
 | [Paul Dinning](https://youtube.com/@pauldinningvideosforcats) | 1.8k | 839k | 696M |
-| [Red Squirrel Studios](https://youtube.com/@redsquirrelstudios) | 217 | 134k | 64M |
+| [Red Squirrel Studios](https://youtube.com/@redsquirrelstudios) | 217 | 134k | 65M |
 | [Relax My Cat - Relaxing Music for Cats](https://youtube.com/@relaxmycat) | 3.0k | 1.1M | 342M |
 
 ### Cat Animations
 
 | Channel ↕ | # Videos ↕ | Subscribers ↕ | Views ↕ |
 | --- | --- | --- | --- |
-| [Simon's Cat](https://youtube.com/@simonscat) | 850 | 6.7M | 1.9B |
+| [Simon's Cat](https://youtube.com/@simonscat) | 852 | 6.7M | 1.9B |
 | [Simon's Cat Extra](https://youtube.com/@simonscatextra) | 1.2k | 964k | 285M |
 
 ### Cat Charities / Rescue
